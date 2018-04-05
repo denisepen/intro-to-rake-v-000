@@ -30,6 +30,6 @@ namespace :db do
     task :cosole => :environment do
       Pry.start
     end
-    end
+  
 
 end
